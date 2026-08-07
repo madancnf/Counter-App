@@ -93,7 +93,7 @@ Counter-App/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Counter-App.git
+git clone https://github.com/madancnf/Counter-App.git
 ```
 
 ### 2. Open the Project Folder
