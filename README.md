@@ -7,7 +7,7 @@ A simple and interactive **Counter App** built using **HTML, CSS, and JavaScript
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="images/counter-app.png" alt="Counter App" width="700">
+  <img src="image.png" alt="Counter App" width="700">
 </p>
 
 ---
