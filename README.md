@@ -108,7 +108,7 @@ Open the **index.html** file in your web browser.
 
 ---
 
-## 📷 Output
+##  Output
 
 ```
 Counter App
